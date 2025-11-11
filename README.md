@@ -3,7 +3,6 @@
     alt="Tushar P Banner" width="720" />
 </p>
 
-<h1 align="center">Tushar P</h1>
 <p align="center" style="font-size:1.3em; color:#b0b0ff;"><b>Innovating the Future • Byte by Byte</b></p>
 
 <p align="center">
@@ -66,7 +65,7 @@
     <li>🚀 Blockchain-based proof & archiving</li>
     <li>🌐 Secure Firebase backend</li>
     <li>💾 Firestore live feeds</li>
-    <li>📱 Mobile-first UI</li>
+    <li>📱 Hashing based on number of community upvotes</li>
   </ul>
 </td>
 <td width="4%"></td>
@@ -122,10 +121,10 @@
 ## 👑 Let's Collaborate
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tushar-p/">
+  <a href="https://www.linkedin.com/in/tushar-p-9339b731b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
   </a>
-  <a href="mailto:tushar.p@email.com">
+  <a href="mailto:tusharp.cs24@rvce.edu.in">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=gmail"/>
   </a>
   <a href="https://github.com/tung-programming">
