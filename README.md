@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-id/tushar-banner.jpg" alt="Tushar P Banner" width="720" />
+  <img src="https://user-images.githubusercontent.com/your-image-id/tushar-banner.jpg" 
+    alt="Tushar P Banner" width="720" />
 </p>
 
 <h1 align="center">Tushar P</h1>
