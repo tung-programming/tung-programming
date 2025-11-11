@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot 2025-11-11 220655.png" 
+  <img src="Screenshot 2025-11-11 220655.png"  
     alt="Tushar P Banner" width="720" />
 </p>
 
