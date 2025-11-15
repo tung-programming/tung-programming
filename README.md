@@ -1,23 +1,9 @@
-<p align="center">
-  <img src="Screenshot 2025-11-11 220655.png"  
-    alt="Tushar P Banner" width="720" />
-</p>
+# 💫 About Me:
+I'm a second year CSE undergrad in RVCE, My interests lie in Artificial Intelligence, Machine Learning, Blockchain and software development, where I am keen to apply modern techniques to build impactful and innovative projects.
 
-<p align="center" style="font-size:1.3em; color:#b0b0ff;"><b>Innovating the Future • Byte by Byte</b></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tung-programming&style=flat-square&color=6f42c1" alt="Profile views"/>
-</p>
-
----
-
-<blockquote align="center">
-<em>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</em>
-</blockquote>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=950&color=00EFFF&width=435&lines=Exploring+ML+%7C+IoT+%7C+EdTech;Open+Source+Builder;Collab%2C+Hackathons%2C+and+Beyond!"/>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tushar.p_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-p2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharpradeep24@gmail.com) 
 
 ## 🚩 Flagship Projects
 
@@ -55,7 +41,7 @@
 </tr>
 <tr>
 <td width="48%" valign="top">
-  <h3>🛡️ <a href="https://github.com/tung-programming/BlockquestWeek1">PhishBlock</a></h3>
+  <h3>🛡 <a href="https://github.com/tung-programming/BlockquestWeek1">PhishBlock</a></h3>
   <b>Smart Phishing Intelligence Dashboard</b><br>
   <img src="https://img.shields.io/badge/Firebase-yellow?logo=firebase" /> <img src="https://img.shields.io/badge/React-blue?logo=react" /> <img src="https://img.shields.io/badge/Polygon-9000ff?logo=polygon" />
   <br><br>
@@ -76,7 +62,7 @@
   <br><br>
   This project transforms a legacy PHP platform into a modern app with Next.js & Firebase. It features authentication, rich content types, modular themes, role management, and SEO optimization.
   <ul>
-    <li>✏️ Rich blog post types (Text, Photo, Quote...)</li>
+    <li>✏ Rich blog post types (Text, Photo, Quote...)</li>
     <li>🎨 Dynamic themes & SSR performance</li>
     <li>👥 User roles & interactive features</li>
     <li>👀 SEO + Analytics tracking</li>
@@ -87,51 +73,22 @@
 </table>
 
 ---
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tung-programming&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tung-programming&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tung-programming&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🛠️ Tech Arsenal
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tung-programming&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,typescript,react,fastapi,firebase,html,nextjs,docker,git,tailwindcss,supabase,polygon" />
-</p>
-
----
-
-## 🌟 Achievements & Badges
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-14%2B%20repos-blue"/>
-  <img src="https://img.shields.io/badge/Hackathon%20Participant-Yes-violet"/>
-  <img src="https://img.shields.io/badge/RVCE%20Presenter-Technical-green"/>
-  <img src="https://img.shields.io/badge/Workshop-Hands%20on-important"/>
-  <img src="https://img.shields.io/badge/AI%2FML%20Innovation-On%20fire-orange"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=tung-programming&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=tung-programming&icon=5&color=0)](https://visitcount.itsvg.in)
 
-## 📊 Contributions & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tung-programming&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tung-programming&theme=dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tung-programming&theme=dark"/>
-</p>
-
----
-
-## 👑 Let's Collaborate
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tushar-p-9339b731b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
-  </a>
-  <a href="mailto:tusharp.cs24@rvce.edu.in">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-c14438?logo=gmail"/>
-  </a>
-  <a href="https://github.com/tung-programming">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github"/>
-  </a>
-</div>
-
----
-
-<p align="center"><em>“Make it majestic. Make it yours.”</em></p>
+<blockquote align="center">
+<em>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</em>
+</blockquote>
